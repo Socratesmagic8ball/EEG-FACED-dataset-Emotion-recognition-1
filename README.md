@@ -1,6 +1,6 @@
 # EEG-Based Emotion Recognition using Deep Learning
 
-> **Collaboration Note**: This project was developed as a partnered research effort with **ajrajn**.
+> **Collaboration Note**: This project was developed as a partnered research project effort with **ajrajn**.
 
 ## Project Overview
 This repository implements advanced deep learning workflows for classifying emotional states from EEG signals using the **SEED (SJTU Emotion EEG Dataset)**. The study compares two distinct methodologies for brain-state decoding:
